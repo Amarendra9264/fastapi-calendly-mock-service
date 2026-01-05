@@ -64,7 +64,7 @@ app/
 	```
 
 3. Access the API documentation
-	- Swagger UI: http://localhost:8000/api/docs
+	- Swagger UI: http://127.0.0.1:8000/model/api/docs
 
 
 ## Contributing
